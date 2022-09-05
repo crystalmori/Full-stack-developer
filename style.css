@@ -1,0 +1,18 @@
+table, tr, th, td {
+    border: 1px solid;
+}
+
+.tb-head {
+    background-color: pink;
+}
+
+#alex, #matt {
+    background-color: plum;
+}
+
+input {
+    width: 80%;
+    padding: 12px 20px;
+    border-radius: 20px;
+    outline: none;
+}
